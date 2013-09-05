@@ -1,0 +1,15 @@
+# Compiled objects and modules
+*.a
+*.o
+*.mod
+*.log
+*.out
+
+# Compiler python objects
+*.pyc
+
+# emacs backups
+*~
+
+# Documentation builds
+docs/build
